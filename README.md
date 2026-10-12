@@ -1,14 +1,29 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A Software Engineer from Iran.</h3>
+<h3 align="center">Software Engineer focused on building reliable, efficient systems.</h3>
 
-- 🔭 I’m currently leading a technical team to build **a product in finance and payment ecosystem.**
+<p align="center">
+I enjoy designing and optimizing systems and workflows — the kind of work where small, careful changes compound into large gains. I care about clean abstractions, observability, and software that stays maintainable as it grows.
+</p>
 
-- 📚 I'm always eager to learn new things and expand my skillset, which is why **I love reading technical books, articles, and blog posts**.
+## 🎯 What I'm focused on
 
-- 💻 I enjoy **optimizing systems and workflows.**
+- **System design & optimization** — making existing systems faster, simpler, and more resilient.
+- **Backend engineering** — building services and APIs that are predictable and easy to reason about.
+- **Open source** — contributing where I can, and helping others debug tricky issues.
 
-- 🌱 I’m currently learning **Pytorch, Neural Networks, and Transformers.**
+## 🌱 Currently exploring
 
-- 👨‍💻 Apart from contributing to open-source projects I enjoy spending my free time on **learning and trying new things in AI.**
+- Deep learning fundamentals: PyTorch, neural networks, and transformers.
+- Applying AI to practical engineering problems.
 
-- 🤝 I’m looking to help with **open-source projects, debugging issues.**
+## 📚 Beyond code
+
+I'm a steady reader of technical books, articles, and blog posts — learning is something I make time for deliberately, not just when a project demands it.
+
+## 📫 Get in touch
+
+Open to conversations about systems, backend engineering, and open-source collaboration — feel free to reach out via GitHub.
+
+---
+
+<p align="center"><em>Always happy to talk about systems, learning, or open-source work.</em></p>
